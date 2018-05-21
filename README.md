@@ -1,1 +1,2 @@
-# New-project
+# Music Visualization using Processing
+
